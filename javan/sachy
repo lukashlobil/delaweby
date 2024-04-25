@@ -1,0 +1,119 @@
+<html>
+    <head>
+        <title>Šachový turnaj</title>
+        <meta charset="utf-8">
+        <style>
+            table, tr, td {border: 1px solid black; border-collapse: collapse;}
+            td {text-align: center; height: 20px; width: 50px;}
+            img {height: 0px; width: 0px;}
+        </style>
+    </head>
+    <body>
+        <h1>Šachový turnaj kroužku Na Beránku</h1>
+        <h3>Informace o turnaji</h3>
+        <h5>Datum turnaje: 12.4.2024 16:00-17:30</h5>
+        <h5>Časový limit: 5 min. + 0</h5>
+        <h5>Režim hry: Každý hraje s každým</h5>
+        <h5>Počet hráčů: 9</h5>
+        <h3>Výsledky</h3>
+        <h4>Aktuální tabulka hráčů</h4>
+        <table>
+            <thead>
+                <tr>
+                    <td>Hráč</td>
+                    <td>Věk</td>
+                    <td>Výhry</td>
+                    <td>Remízy</td>
+                    <td>Prohry</td>
+                    <td>Body</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Jan</td>
+                    <td>11 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Jára</td>
+                    <td>9 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Danuška</td>
+                    <td>7 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Adam</td>
+                    <td>9 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Míša</td>
+                    <td>9 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Rostík</td>
+                    <td>10 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Maty</td>
+                    <td>10 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Alex</td>
+                    <td>10 let</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+                <tr>
+                    <td>Fíla</td>
+                    <td>?</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                    <td>0</td>
+                </tr>
+            </tbody>
+        </table>
+        <h4>1. kolo</h4>
+        <p>Jan 0:0 Adam<br>Míša 0:0 Jára<br>Alex 0:0 Danuška<br>Rostík 0:0 Maty<br>Fíla 0:0 </p>
+        <h4>2. kolo</h4>
+        <p>Jan 0:0 Jára<br>Míša 0:0 Adam<br>Alex 0:0 Maty<br>Rostík 0:0 Fíla<br>Danuška 0:0 </p>
+        <h4>3. kolo</h4>
+        <p>Jan 0:0 Míša<br>Adam 0:0 Alex<br>Rostík 0:0 Danuška<br>Fíla 0:0 Jára<br>Maty 0:0 </p>
+        <h4>4. kolo</h4>
+        <h4>5. kolo</h4>
+        <h4>6. kolo</h4>
+        <h4>7. kolo</h4>
+        <h4>8. kolo</h4>
+        <b>Poznámka: Tento web slouží pouze k zobrazování výsledků, proto nemá nijak zvlášť dobrou grafickou úpravu</b>
+    </body>
+</html>
