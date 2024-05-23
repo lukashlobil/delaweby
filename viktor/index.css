@@ -1,0 +1,84 @@
+body {
+    font-family: "Kanit", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    position: relative;
+}
+
+.blok {
+  background-color: black;
+  width: auto;
+  height: 2px;
+}
+
+.foto {
+  width: 30%;
+  margin-left: 35%;
+  position: relative;
+  border-radius: 4%;
+  -webkit-box-shadow: 0 4px 12px -4px rgba(0, 0, 0, 0.68);
+  box-shadow: 0 4px 12px -4px rgba(0, 0, 0, 0.28);
+}
+
+.menu {
+  text-align: fixed;
+  background-color: rgb(234, 234, 234);
+}
+
+section > .conteinr > h1 {
+  text-align: center;
+}
+
+section > .conteinr > p {
+    text-align: center;
+}
+
+.CenikNadpis {
+  text-align: center;
+}
+
+.CenikTabulka{
+  position: relative;
+  table {
+    margin: auto;
+  }
+
+}
+
+
+#obednat form > input,
+#obednat form > textarea {
+  width: calc(100% - 2.6rem - 4px);
+  height: 2rem;
+  margin: 1rem 1rem 0rem 1rem;
+  padding: 0.3rem;
+}
+
+#obednat form > textarea {
+  resize: vertical;
+  min-height: 3rem;
+}
+
+#obednat form > .button {
+  display: block;
+  max-width: 6rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  color: white;
+  background: black;
+  margin: 0.5rem auto;
+  border-radius: 0.5rem;
+  border: 0;
+  box-shadow: 1px 1px 0.1rem #000;
+  transition: 300ms;
+}
+
+#obednat form > .button:hover {
+  font-weight: bold;
+  color: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgb(0, 0, 0) 100%);
+  background: linear-gradient(180deg, rgb(47, 44, 56) 0%, rgb(47, 44, 56) 0%);
+}
+
+.konec {
+  text-align: center;
+}
